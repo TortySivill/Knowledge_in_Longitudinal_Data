@@ -1,4 +1,4 @@
-# Extracting Meaning From Longitudinal Data in Health
+# Extracting Knowledge From Longitudinal Data in Health
 
 Contents:
 <ul>
